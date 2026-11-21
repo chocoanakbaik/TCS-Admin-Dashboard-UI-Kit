@@ -38,4 +38,4 @@ Baca panduan setup, daftar komponen, lisensi, changelog, dan contoh penggunaan y
 ## Penerbit
 
 **The Choco Studios (TCS)**  
-Kontak: thechocostudio@gmail.com
+Kontak: thechocostudios@gmail.com
