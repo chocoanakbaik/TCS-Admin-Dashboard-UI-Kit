@@ -1,3 +1,7 @@
+> **Status audit 24 November 2026:** repositori ini masih berupa dokumentasi/perencanaan. Isi yang tersedia hanya README, berkas pengetahuan internal `READMEGPT.md`, dan sertifikat publisher. Tidak ada source komponen UI, stylesheet, contoh dashboard yang dapat dijalankan, atau paket rilis. Karena itu, repositori ini belum merupakan UI kit siap pakai dan tidak boleh dipasarkan sebagai produk jadi. README di bawah dipertahankan sebagai spesifikasi kebutuhan.
+
+---
+
 # TCS Admin Dashboard UI Kit
 
 **Komponen antarmuka dashboard untuk mempercepat pembuatan panel administrasi.**
